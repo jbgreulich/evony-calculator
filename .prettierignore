@@ -1,7 +1,0 @@
-# Ignore artifacts:
-.cache/
-build/
-dist/
-node_modules/
-out/
-staticBuild/
