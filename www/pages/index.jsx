@@ -4,7 +4,7 @@ const IndexPage = () => {
   return (
     <div className="relative h-screen w-full">
       <div className="flex justify-center">
-        <h1>helloworld</h1>
+        <h1 className="text-red-500">helloworld</h1>
       </div>
     </div>
   )
